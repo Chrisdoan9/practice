@@ -1,0 +1,2 @@
+a = input('Enter string: ')
+print('*'*(len(a)-5)+a[-5:])
